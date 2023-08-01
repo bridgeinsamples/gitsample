@@ -5,4 +5,5 @@
     echo "revert test version 3"
     echo "revert test vertion 4"
     echo "modify on dev branch"
+    echo "bugfix"
 ?>
